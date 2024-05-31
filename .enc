@@ -1,0 +1,2 @@
+echo DJANGO_SECRET_KEY="test" > .env
+echo FRONTEND_URL="http://localhost:3000">> .env
